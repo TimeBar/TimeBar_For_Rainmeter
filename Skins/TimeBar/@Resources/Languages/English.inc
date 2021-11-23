@@ -1,0 +1,2 @@
+[Variables]
+langcode=en-us
